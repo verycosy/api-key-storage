@@ -1,0 +1,38 @@
+{
+  "name": "api-key-storage",
+  "version": "0.0.2",
+  "description": "Hide API Key on Static Web Site",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/verycosy/key-storage.git"
+  },
+  "keywords": [
+    "hide",
+    "api",
+    "key",
+    "static",
+    "gh-page",
+    "github"
+  ],
+  "author": {
+    "name": "Jinho Jang",
+    "email": "red_horse_@naver.com",
+    "url": "https://verycosy.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verycosy/key-storage/issues",
+    "email": "red_horse_@naver.com"
+  },
+  "homepage": "https://github.com/verycosy/key-storage#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
