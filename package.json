@@ -1,6 +1,6 @@
 {
   "name": "api-key-storage",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hide API Key on Static Web Site",
   "main": "index.js",
   "directories": {
