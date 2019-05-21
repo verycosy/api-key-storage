@@ -6,4 +6,4 @@ module.exports = serviceId =>
     method: "get"
   })
     .then(res => res.data)
-    .catch(res => res.data);
+    .catch(err => err.response.data);

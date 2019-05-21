@@ -1,6 +1,6 @@
 {
   "name": "api-key-storage",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Hide API Key on Static Web Site",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/verycosy/key-storage.git"
+    "url": "https://github.com/verycosy/ap-key-storage.git"
   },
   "keywords": [
     "hide",
@@ -28,10 +28,10 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/verycosy/key-storage/issues",
+    "url": "https://github.com/verycosy/api-key-storage/issues",
     "email": "red_horse_@naver.com"
   },
-  "homepage": "https://github.com/verycosy/key-storage#readme",
+  "homepage": "https://github.com/verycosy/api-key-storage#readme",
   "dependencies": {
     "axios": "^0.18.0"
   }
