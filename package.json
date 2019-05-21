@@ -1,7 +1,7 @@
 {
   "name": "api-key-storage",
-  "version": "1.0.0",
-  "description": "Hide API Key on Static Web Site",
+  "version": "1.0.1",
+  "description": "Hide API Key on Public Git Repo.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
